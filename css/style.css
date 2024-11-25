@@ -23,6 +23,8 @@ body {
 .card {
     padding: 20px;
     background-color: hsl(0, 0%, 100%);
+    box-shadow: 10px 10px 0 black;
+    border-radius: 20px;
 }
 
 /* picture */
