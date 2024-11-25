@@ -17,3 +17,11 @@ body {
     max-width: 350px;
     margin: 0 auto;
 }
+
+/* card */
+
+.card {
+    padding: 20px;
+    background-color: hsl(0, 0%, 100%);
+
+}
