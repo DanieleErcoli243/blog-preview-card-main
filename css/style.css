@@ -63,6 +63,8 @@ body {
         font-style: normal;
     }
 
-
+    p {
+        color: hsl(0, 0%, 42%);
+    }
 
 }
