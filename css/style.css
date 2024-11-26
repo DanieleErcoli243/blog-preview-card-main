@@ -67,6 +67,10 @@ body {
         font-style: normal;
     }
 
+    h2:hover {
+        color: hsl(47, 88%, 63%);
+    }
+
     p {
         color: hsl(0, 0%, 42%);
     }
