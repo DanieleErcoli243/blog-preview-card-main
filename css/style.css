@@ -10,6 +10,7 @@
 
 body {
     background-color: hsl(47, 88%, 63%);
+    font-size: calc(0.75em + 1vmin);
 }
 
 /* utili */
