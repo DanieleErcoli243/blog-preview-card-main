@@ -74,7 +74,17 @@ body {
     .info {
         display: flex;
         align-items: center;
-        gap: 20px;
+        gap: 15px;
+
+        figure {
+            width: 30px;
+        }
+
+
+        img {
+            max-width: 100%;
+            height: auto;
+        }
     }
 
 }
